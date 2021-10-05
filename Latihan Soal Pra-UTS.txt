@@ -1,0 +1,113 @@
+=======================
+1. Buatlah algoritma untuk menghitung perkalian tanpa menggunakan operator perkalian (bukan rekursif)
+2. Buatlah algoritma untuk menghitung pembagian tanpa menggunakan operator pembagian (bukan rekursif)
+3. Buatlah algoritma untuk menukar 2 variabel
+4. Buat algoritma menghitung selisih waktu dalam jam dan menit berdasarkan jam mulai (jam,menit) dengan jam selesai (jam,menit). 
+    Data yang diinput adalah jam dan menit mulai, jam dan menit selesai
+    Contoh Mulai = 10:30 Selesai 12:10 Lama = 100 Lama = 1 jam 40 menit
+5. Dalam sebuah kandang ada 1000 anjing. Setiap akhir bulan anjing tersebut serempak melahirkan satu anjing baru. 
+    Namun sebelum melahirkan, 20% dari anjing tersebut dijual. 
+    Susun algoritma untuk menghitung dan mencetak jumlah anjing setelah 10 bulan.
+6. Berikut adalah keterngan jarak dari masing - masing planet.
+  Mercury - Venus (108jt km)
+  Venus - Earth (162jt km)
+  Earth - Mars (225jt km)
+  Buatlah sebuah algoritma yang bisa menerima input planet 1 dan 2. Kemudian hitungalah
+  jaraknya.
+  Contoh.
+  Input 1 = Mercury
+  Input 2 = Bumi
+  Total = 270km
+7. Dalam semester ini Budiman mengambil beberapa matakuliah, di antaranya :
+   - Algo 4sks       -> A  = 4 * 4 = 16
+   - Prak Algo 2sks  -> B  = 3 * 2 = 6
+   - Webdes 3sks     -> A  = 4 * 3 = 12
+                                   = 34/9 => IPS 3.7 
+   - Kalkulus 1 2sks 
+   - Agama 2sks      
+   Hitunglah berapa IPS Budiman semester ini. 
+   Jika index nilai dari setiap matakuliah menjadi input. Input berupa string 
+   Dimana index :
+    A = 4
+    A- = 3.7
+    B+ = 3.5
+    B = 3
+    B- 2.7
+    c+ = 2.5
+    C = 2
+    C- = 1.7
+    D = 1
+    E = 0
+8. Algoritma untuk menghapus hurug vokal pada suatu string yang dinput 
+   Kata  : Albertus berry
+   Hasil : lbrts brry
+9. Algoritma untuk menghapus substring pada suatu string yang dinput 
+   Kata      : Albertus berry
+   Substring : ber
+   Hasil     : Altus ry
+10. Buatlah algoritma untuk mengecek suatu string sebuah palindrom
+11. Seseorang menyimpan uang 1.000.000 di koperasi dengan bunga 2% perbulan. Jadi setelah satu bulan uangnya menjadi 1.020.000. 
+  satu bulan berikutnya uang 1.020.000 ini mendapat bunga lagi 2% sehingga setelah 2 bulan uangnya menjadi 1.020.000 + 20.400 = 1.040.400. 
+  Buat algoritma untuk menghitung dan mencetak jumlah uang setelah n bulan.
+12. Buatlah For membentuk ikan dengan masukan harus Ganjil.
+    *     *
+    **   ***
+    *********
+    **   ***
+    *     *
+13. Buatlah For membentuk Pohon natal
+    Input : 10 // setiap seksi/perpotongan maksimal ada 4 baris
+           *
+          ***
+         *****
+        *******
+          *** 
+        *******
+      ***********
+    ***************
+          ***
+          *** 
+          
+  7 ^^^^^^^*
+  6 ^^^^^^***
+  5 ^^^^^*****
+  4 ^^^^*******
+  6 ^^^^^^***
+  4 ^^^^*******
+  2 ^^***********
+  0 ***************
+  6 ^^^^^^***
+  6       ***      
+          
+           *
+          ***
+         *****
+        *******
+          *  *       * 
+        ***  ***     *
+      *****  *****   *
+    *******  ******* *
+       
+        
+14. Buatlah For membentuk jam pasir dengan input tinggi (harus genap)
+     *****
+      ***
+       *
+       *
+      ***
+     *****
+15. Buatlah For membentuk pola papan catur dengan tinggi papan(genap) dan lebar papan(ganjil)
+    * * * *
+     * * *
+    * * * *
+     * * *
+16. Buatlah For membentuk Kue Ulang tahun n=6
+	        |
+         |*|
+        |***|
+       |*****|
+      |*******|
+     |*********|
+17. Buatlah algoritma untuk mengecek apakah suatu angka diinput ganjil , genap, dan apakah termasuk bilangan prima  
+18. Buatlah algoritma yang menghitung luas dan keliling dari suatu 4 titik koordinat kartesius
+    Catatan : Salah satu titik kordinat tidak boleh sama dan bentuk dari 4 titik tersebut berbentuk persegi / persegi panjang.
